@@ -8,6 +8,27 @@ This is just an example of how you might structure your blog post, feel free to 
 This week we'll explore...
 
 ## Materials
+-IC data sheets
+
+-PB-503 breadboard prototyping station
+
+-Wires and connection tools
+
+-Logic Probes
+
+-Logic Switches
+
+-Push Button
+
+-7404 NOT gate IC
+
+-7408 AND gate IC
+
+-7486 XOR gate IC
+
+-7476 JK Flip Flop IC
+
+-Resistors
 
 ## Project Steps
 
