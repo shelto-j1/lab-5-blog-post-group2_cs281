@@ -38,6 +38,8 @@ Next we had to contruct a state table.
 <img src="./assets/statetable.png" />
 
 After we created a state table we need to the FSM to and state table to create a function table. This shows us the before and after values for signals in the circuit. It showa the signals that are sent to the J and K inputs. 
+
+- Below is the state table.
 <img src="./assets/fun.png" />
 
 Next, after creating the function table we use the values from the table inorder to contruct k-maps to create our circuit.
@@ -52,6 +54,9 @@ Finally, we use the k-maps to design and build the circuit.
 <img src="./assets/circuit.png" />
 
 ## Testing
+Inorder to test the circuit we had to have the x input certain streams to see if the output of the circuit was correct. If you remeber, the circuit is supposed to out put a 1 if the stream ends in 00, and it's supposed to output a 0 for anything else. We tested multiple inputs of x to ensure that the output was correct. See the video below for a demostration.
+
+
 
 ## Conclusion
 
